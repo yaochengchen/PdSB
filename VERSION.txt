@@ -1,0 +1,6 @@
+PdSB code and data release 1.0.0 (2026-10-24)
+Paper: "Beyond One-Hot Encoding: Native Potts Discrete Simulated Bifurcation Breaks G-set Max-k-Cut Records"
+       J. Zhuang and Y. Chen, manuscript under review.
+Raw results: main experiments E1-E4L (code/results), initial E4 snapshot (code/results_initial),
+             dedicated PdSB search H1-H3 (code/results_pdsb). Hardware: 2x NVIDIA GH200, CUDA 13.0.
+Certificates: Zenodo doi:10.5281/zenodo.23405852, version 2.0.0 (certificates/).

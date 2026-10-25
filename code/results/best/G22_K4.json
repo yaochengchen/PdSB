@@ -1,0 +1,20 @@
+{
+ "graph": "G22",
+ "K": 4,
+ "n": 2000,
+ "cut": 18787.0,
+ "previous": 18786.0,
+ "ref": null,
+ "plan": "E4L",
+ "method": "sa",
+ "T": 300000,
+ "seed": 6,
+ "params": {
+  "T0": 1.0,
+  "T1": 0.2
+ },
+ "replica": 21,
+ "kind": "best",
+ "colours_used": 4,
+ "time": "2026-10-16 00:52:28"
+}

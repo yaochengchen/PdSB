@@ -1,0 +1,36 @@
+instance,n,m,edge_weights,K,cut,previous_best,improvement,status,previous_source,solution_file,solution_sha256
+G1,800,19176,+1,3,15165,15165,0,matched best-known,MOH 2017; PEAF 2026 (journal),solutions/G1_max3cut_solution.txt,7c8733f0ecb6dd7ab742b83aab8ff0f05dad97feb93e5d73afb41293c18ba4b2
+G1,800,19176,+1,4,16804,16804,0,matched best-known,PEAF 2026 (journal) (MOH: 16803),solutions/G1_max4cut_solution.txt,ab6bc3419fd30507115006d6b0c8d60178d1179da2a31527e7db681cd22fa713
+G1,800,19176,+1,5,17706,17705,1,new best-known,PEAF 2026 (journal) (MOH: 17703),solutions/G1_max5cut_solution.txt,13ca9b220557f8ad6a9605aa8bf0153ff38f1bb4a0c639f7b095c59a60166dc5
+G1,800,19176,+1,6,18255,,,reference value (no published baseline identified),no published value found,solutions/G1_max6cut_solution.txt,4dd81d65bfb23db9d6595a6d93c0c7e80bf8d515c666ee813007ef51dd4a0896
+G1,800,19176,+1,8,18843,,,reference value (no published baseline identified),no published value found,solutions/G1_max8cut_solution.txt,8113cb52a4b7631fb553de506cdeac01d500129d790542d12f00639824836deb
+G2,800,19176,+1,3,15172,15172,0,matched best-known,MOH 2017; PEAF 2026 (journal),solutions/G2_max3cut_solution.txt,cdedb8c9cdebb7d935c0822bda5d8f6da42507cbc350b3a07c0b0ea577e99c03
+G2,800,19176,+1,4,16810,16810,0,matched best-known,PEAF 2026 (journal) (MOH: 16809),solutions/G2_max4cut_solution.txt,c94b97bcfec5392df746a3d6e1b548622afec4df7135a7beef12ae3fb1830bfe
+G2,800,19176,+1,5,17710,17707,3,new best-known,PEAF 2026 (journal) (MOH: 17706),solutions/G2_max5cut_solution.txt,f27c1a4c835c6588f7292efc5fee7b008607759f330c551c0faee6738a03393e
+G2,800,19176,+1,6,18257,,,reference value (no published baseline identified),no published value found,solutions/G2_max6cut_solution.txt,144f157818b7f1ffa8bb28509015ad418ad48cf60f24e32b0725740a04f2af80
+G2,800,19176,+1,8,18844,,,reference value (no published baseline identified),no published value found,solutions/G2_max8cut_solution.txt,30607e9e49732f740768a2120695aca6421fb845a4be3cf54f0cbe8d95dd82ce
+G3,800,19176,+1,3,15173,15173,0,matched best-known,MOH 2017; PEAF 2026 (journal),solutions/G3_max3cut_solution.txt,65af9f0486bb81d8974b3ef15e3c8f29e3da9afd76dee0766d2a3828cebabfe2
+G3,800,19176,+1,4,16806,16806,0,matched best-known,MOH 2017; PEAF 2026 (journal),solutions/G3_max4cut_solution.txt,5d8e9ba77a2d54cf56797feebb73efdf3a3c19325e5d8e8ef12be2c60200ae18
+G3,800,19176,+1,5,17705,17703,2,new best-known,PEAF 2026 (journal) (MOH: 17701),solutions/G3_max5cut_solution.txt,a058b7591a5c3785059af04c719ab4e04340c3e01373a44340c2d198813675ca
+G3,800,19176,+1,6,18254,,,reference value (no published baseline identified),no published value found,solutions/G3_max6cut_solution.txt,de7c1bee8196dae76be5fd7c83d7c5aa5ab41e1b3e8d0f9f75089f985732aec6
+G3,800,19176,+1,8,18843,,,reference value (no published baseline identified),no published value found,solutions/G3_max8cut_solution.txt,6e8373d0a0524b0ae10d03b2c042348188f265d03ef12ef8796248a95be4199f
+G4,800,19176,+1,3,15184,15184,0,matched best-known,MOH 2017; PEAF 2026 (journal),solutions/G4_max3cut_solution.txt,09df0a1babdd2a319cee850b580ba7ea02b299ca6cea624c51e6fb6d2785451c
+G4,800,19176,+1,4,16814,16814,0,matched best-known,MOH 2017; PEAF 2026 (journal),solutions/G4_max4cut_solution.txt,7fb714b7c6b9a0e3c99d734cdc5232a78f410b5114ea586a83ab2372224c885d
+G4,800,19176,+1,5,17710,17709,1,new best-known,MOH 2017; PEAF 2026 (journal),solutions/G4_max5cut_solution.txt,05edaa083eee7eca51cd6d5b23504d32366fffb186bd3208f79bfe5920cecbad
+G4,800,19176,+1,6,18257,,,reference value (no published baseline identified),no published value found,solutions/G4_max6cut_solution.txt,741a20a2404a780839e4649eb6243547512d1315b663ba6cb48293d790cbaa2c
+G4,800,19176,+1,8,18844,,,reference value (no published baseline identified),no published value found,solutions/G4_max8cut_solution.txt,06cfd96571d6c5f7e51dd3a71974c0439de5b646b1a76b2a25b54b4c3494275e
+G5,800,19176,+1,3,15193,15193,0,matched best-known,MOH 2017; PEAF 2026 (journal),solutions/G5_max3cut_solution.txt,67a053068b8a93db29481ac5d645db5dd18eab6cf540f78016c12e607f724993
+G5,800,19176,+1,4,16816,16816,0,matched best-known,MOH 2017; PEAF 2026 (journal),solutions/G5_max4cut_solution.txt,0fbb0b9dc2a4524e48686c015b6d9ddc7dda19a67b53046ea0a78054a86144d9
+G5,800,19176,+1,5,17711,17711,0,matched best-known,PEAF 2026 (journal) (MOH: 17710),solutions/G5_max5cut_solution.txt,a6c81b5dec4305a622d3cc76d385786be3e49f7f72c348eba2d8aa3aa378ee84
+G5,800,19176,+1,6,18258,,,reference value (no published baseline identified),no published value found,solutions/G5_max6cut_solution.txt,488564b3474869799443e521f3c6ac908155957b6605b6d7bb387dc56cb42ac8
+G5,800,19176,+1,8,18845,,,reference value (no published baseline identified),no published value found,solutions/G5_max8cut_solution.txt,356715fd39d8d54573518e9d2bb26e5865ac2f831bbe995d069042365f44bd69
+G22,2000,19990,+1,3,17169,17169,0,matched best-known,PEAF 2026 (journal); PAMC 2026 (MOH: 17167),solutions/G22_max3cut_solution.txt,53bb34b405f4657d782594c4dd90f7db64798a74c0adb042caabbabd0d82c4c4
+G22,2000,19990,+1,4,18787,18776,11,new best-known,MOH 2017; PEAF 2026 (journal),solutions/G22_max4cut_solution.txt,63a6d71fbd3ef85d3ab1df364f24f414f000aa9b64835a3bc8de273fcaf4ffa3
+G43,1000,9990,+1,3,8573,8573,0,matched best-known,MOH 2017; PEAF 2026 (journal),solutions/G43_max3cut_solution.txt,24fba52da951e3edece95eae26c305eab822dca2b035c5c56cd7335ce26802b5
+G43,1000,9990,+1,4,9377,9377,0,matched best-known,Garvardt et al. 2026; PEAF 2026 (journal) (MOH: 9376),solutions/G43_max4cut_solution.txt,b3a6b0a515cb31c0507736ce8bd5c2c4744ac5dba9cfb6f8b22c29f8d94c8927
+G55,5000,12498,+1,3,12437,12432,5,new best-known,Garvardt et al. 2026 (ILP); PAMC 2026 (MOH paper: 12429; Garvardt starting coloring: 12427),solutions/G55_max3cut_solution.txt,8281545f21ada626a8f3016f93698196649393a5a2083b327fa865641199f07b
+G55,5000,12498,+1,4,12498,12498,0,optimal (all edges cut),MOH 2017 (= total edge weight),solutions/G55_max4cut_solution.txt,6a5b3f08a2b7f21d57a3bcc73707af67f21154e06053e6d053e31d8a633cdde3
+G70,10000,9999,+1,3,9999,9999,0,optimal (all edges cut),MOH 2017 (= total edge weight),solutions/G70_max3cut_solution.txt,558efc79a979b42fd0875bd69a1e5d41f7bacb53881db28b304388604b8de13b
+G70,10000,9999,+1,4,9999,9999,0,optimal (all edges cut),MOH 2017 (= total edge weight),solutions/G70_max4cut_solution.txt,d2e6aece099f287e9f05b4bc5ea81e8a236b0a5174ffdd35ebd9c84d0fdde735
+G81,20000,40000,+1/-1,3,16510,16392,118,new best-known,Garvardt et al. 2026 (MOH: 16321),solutions/G81_max3cut_solution.txt,ca10d47d1bc3e5da9d5350715d10aaa7eb6de538e30578bae1386f03625a36b8
+G81,20000,40000,+1/-1,4,16666,16670,-4,below published best,"Shao and Wu 2025, Table 3 (Gurobi), doi:10.4208/eajam.2023-184.151023",solutions/G81_max4cut_solution.txt,f4bc345c0e3863bc5da1b28849ac976ab946ce988ae780565785dc56c1f3495a

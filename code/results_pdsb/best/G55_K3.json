@@ -1,0 +1,20 @@
+{
+ "graph": "G55",
+ "K": 3,
+ "n": 5000,
+ "cut": 12436.0,
+ "previous": 12434.0,
+ "ref": null,
+ "plan": "H3",
+ "method": "pdsb_fused",
+ "T": 10000000,
+ "seed": 12,
+ "params": {
+  "dt": 0.5,
+  "xi": 0.75
+ },
+ "replica": 185,
+ "kind": "best",
+ "colours_used": 3,
+ "time": "2026-10-16 03:54:53"
+}

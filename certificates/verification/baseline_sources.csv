@@ -1,0 +1,36 @@
+instance,K,cut,published_comparison,difference,source,source_url,source_locator,checked_date
+G1,3,15165,15165,0,"Shao and Yang 2026, journal version",https://www.global-sci.com/jiasc/article/view/24860,"Table 19, G1 row, maximum reported cut across methods",2026-10-15
+G1,4,16804,16804,0,"Shao and Yang 2026, journal version",https://www.global-sci.com/jiasc/article/view/24860,"Table 20, G1 row, maximum reported cut across methods",2026-10-15
+G1,5,17706,17705,1,"Shao and Yang 2026, journal version",https://www.global-sci.com/jiasc/article/view/24860,"Table 21, G1 row, maximum reported cut across methods",2026-10-15
+G1,6,18255,,,,,,2026-10-15
+G1,8,18843,,,,,,2026-10-15
+G2,3,15172,15172,0,"Shao and Yang 2026, journal version",https://www.global-sci.com/jiasc/article/view/24860,"Table 19, G2 row, maximum reported cut across methods",2026-10-15
+G2,4,16810,16810,0,"Shao and Yang 2026, journal version",https://www.global-sci.com/jiasc/article/view/24860,"Table 20, G2 row, maximum reported cut across methods",2026-10-15
+G2,5,17710,17707,3,"Shao and Yang 2026, journal version",https://www.global-sci.com/jiasc/article/view/24860,"Table 21, G2 row, maximum reported cut across methods",2026-10-15
+G2,6,18257,,,,,,2026-10-15
+G2,8,18844,,,,,,2026-10-15
+G3,3,15173,15173,0,"Shao and Yang 2026, journal version",https://www.global-sci.com/jiasc/article/view/24860,"Table 19, G3 row, maximum reported cut across methods",2026-10-15
+G3,4,16806,16806,0,"Shao and Yang 2026, journal version",https://www.global-sci.com/jiasc/article/view/24860,"Table 20, G3 row, maximum reported cut across methods",2026-10-15
+G3,5,17705,17703,2,"Shao and Yang 2026, journal version",https://www.global-sci.com/jiasc/article/view/24860,"Table 21, G3 row, maximum reported cut across methods",2026-10-15
+G3,6,18254,,,,,,2026-10-15
+G3,8,18843,,,,,,2026-10-15
+G4,3,15184,15184,0,"Shao and Yang 2026, journal version",https://www.global-sci.com/jiasc/article/view/24860,"Table 19, G4 row, maximum reported cut across methods",2026-10-15
+G4,4,16814,16814,0,"Shao and Yang 2026, journal version",https://www.global-sci.com/jiasc/article/view/24860,"Table 20, G4 row, maximum reported cut across methods",2026-10-15
+G4,5,17710,17709,1,"Shao and Yang 2026, journal version",https://www.global-sci.com/jiasc/article/view/24860,"Table 21, G4 row, maximum reported cut across methods",2026-10-15
+G4,6,18257,,,,,,2026-10-15
+G4,8,18844,,,,,,2026-10-15
+G5,3,15193,15193,0,"Shao and Yang 2026, journal version",https://www.global-sci.com/jiasc/article/view/24860,"Table 19, G5 row, maximum reported cut across methods",2026-10-15
+G5,4,16816,16816,0,"Shao and Yang 2026, journal version",https://www.global-sci.com/jiasc/article/view/24860,"Table 20, G5 row, maximum reported cut across methods",2026-10-15
+G5,5,17711,17711,0,"Shao and Yang 2026, journal version",https://www.global-sci.com/jiasc/article/view/24860,"Table 21, G5 row, maximum reported cut across methods",2026-10-15
+G5,6,18258,,,,,,2026-10-15
+G5,8,18845,,,,,,2026-10-15
+G22,3,17169,17169,0,"Shao and Yang 2026, journal version",https://www.global-sci.com/jiasc/article/view/24860,"Table 19, G22 row, maximum reported cut across methods",2026-10-15
+G22,4,18787,18776,11,"Shao and Yang 2026, journal version",https://www.global-sci.com/jiasc/article/view/24860,"Table 20, G22 row, maximum reported cut across methods",2026-10-15
+G43,3,8573,8573,0,"Shao and Yang 2026, journal version",https://www.global-sci.com/jiasc/article/view/24860,"Table 19, G43 row, maximum reported cut across methods",2026-10-15
+G43,4,9377,9377,0,"Shao and Yang 2026, journal version",https://www.global-sci.com/jiasc/article/view/24860,"Table 20, G43 row, maximum reported cut across methods",2026-10-15
+G55,3,12437,12432,5,Garvardt et al. 2026; Khan et al. 2026,https://link.springer.com/article/10.1007/s10479-026-07426-0 ; https://arxiv.org/html/2606.25203v1,"Garvardt Table 7, ILP column; PAMC Max-3-Cut table",2026-10-15
+G55,4,12498,12498,0,"Shao and Yang 2026, journal version",https://www.global-sci.com/jiasc/article/view/24860,"Table 20, G55 row, maximum reported cut across methods",2026-10-15
+G70,3,9999,9999,0,"Shao and Yang 2026, journal version",https://www.global-sci.com/jiasc/article/view/24860,"Table 19, G70 row, maximum reported cut across methods",2026-10-15
+G70,4,9999,9999,0,"Shao and Yang 2026, journal version",https://www.global-sci.com/jiasc/article/view/24860,"Table 20, G70 row, maximum reported cut across methods",2026-10-15
+G81,3,16510,16392,118,Garvardt et al. 2026,https://link.springer.com/article/10.1007/s10479-026-07426-0,"Table 7, G81 row, LS column",2026-10-15
+G81,4,16666,16670,-4,Shao and Wu 2025,https://www.global-sci.com/EAJAM/article/view/9676,"Table 3, G81 row, Gurobi column, journal PDF page 17",2026-10-15

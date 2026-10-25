@@ -1,0 +1,4 @@
+PASS: simplex identities, projection normal cones, radial identity and frozen-field threshold (K=2,3,4,5,6,8).
+PASS: exact Potts energy and zero-momentum fixed-point/1-flip equivalence on 978 signed-graph colourings at three time steps.
+PASS: all eight PdSB table values match raw best-output metadata; release values and G81 K=4 baseline match results.csv.
+Scope: these are CPU mathematical and metadata checks. GH200 performance and GPU trajectories were not rerun.

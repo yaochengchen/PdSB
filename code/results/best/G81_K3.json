@@ -1,0 +1,20 @@
+{
+ "graph": "G81",
+ "K": 3,
+ "n": 20000,
+ "cut": 16510.0,
+ "previous": 16488.0,
+ "ref": null,
+ "plan": "E4L",
+ "method": "sa",
+ "T": 300000,
+ "seed": 6,
+ "params": {
+  "T0": 0.35,
+  "T1": 0.05
+ },
+ "replica": 1,
+ "kind": "best",
+ "colours_used": 3,
+ "time": "2026-10-16 01:05:48"
+}

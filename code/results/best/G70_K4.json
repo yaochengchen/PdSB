@@ -1,0 +1,20 @@
+{
+ "graph": "G70",
+ "K": 4,
+ "n": 10000,
+ "cut": 9999.0,
+ "previous": null,
+ "ref": null,
+ "plan": "E4",
+ "method": "sa",
+ "T": 10000,
+ "seed": 0,
+ "params": {
+  "T0": 2.0,
+  "T1": 0.2
+ },
+ "replica": 1,
+ "kind": "polished",
+ "colours_used": 4,
+ "time": "2026-10-15 03:00:21"
+}

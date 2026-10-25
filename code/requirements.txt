@@ -1,0 +1,8 @@
+# runs in the existing conda env `matching-cd` (CUDA torch already there); check with: bash check_env.sh
+torch>=2.5
+numpy>=1.24
+scipy>=1.10
+numba>=0.59
+pandas>=2.0
+matplotlib>=3.6
+ninja

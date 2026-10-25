@@ -1,0 +1,20 @@
+{
+ "graph": "G81",
+ "K": 3,
+ "n": 20000,
+ "cut": 16498.0,
+ "previous": 16487.0,
+ "ref": null,
+ "plan": "H3",
+ "method": "pdsb_fused",
+ "T": 10000000,
+ "seed": 12,
+ "params": {
+  "dt": 0.75,
+  "xi": 0.5
+ },
+ "replica": 0,
+ "kind": "best",
+ "colours_used": 3,
+ "time": "2026-10-16 04:11:08"
+}

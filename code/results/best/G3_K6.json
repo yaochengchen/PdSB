@@ -1,0 +1,20 @@
+{
+ "graph": "G3",
+ "K": 6,
+ "n": 800,
+ "cut": 18254.0,
+ "previous": 18251.0,
+ "ref": null,
+ "plan": "E3v",
+ "method": "sa",
+ "T": 100000,
+ "seed": 1,
+ "params": {
+  "T0": 1.0,
+  "T1": 0.2
+ },
+ "replica": 940,
+ "kind": "best",
+ "colours_used": 6,
+ "time": "2026-10-15 05:05:25"
+}

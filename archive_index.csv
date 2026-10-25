@@ -1,0 +1,13 @@
+archive,role,records,configurations,graphs,bytes
+code/results/E1/runs.jsonl,small-graph tuning/ablation,270,4386,G1;G2;G3;G4;G5,12227931
+code/results/E1v/runs.jsonl,fresh-seed validation,167,167,G1;G2;G3;G4;G5,4599991
+code/results/E2/runs.jsonl,legacy timing retained as figure reference input,240,240,G1;G2;G3;G4;G5,776373
+code/results/E2L/runs.jsonl,large-batch timing,308,308,G1;G2;G3;G4;G5,8483165
+code/results/E3/runs.jsonl,more-colours tuning,210,2940,G1;G2;G3;G4;G5,8219036
+code/results/E3v/runs.jsonl,more-colours validation,65,65,G1;G2;G3;G4;G5,1791520
+code/results/E4/runs.jsonl,larger-graph tuning,114,1302,G22;G43;G55;G70;G81,3508412
+code/results/E4L/runs.jsonl,larger-graph timing,93,93,G22;G43;G55;G70;G81,530365
+code/results_initial/E4/runs.jsonl,initial larger-graph snapshot for Fig. 3,40,100,G22;G43;G55;G70;G81,284218
+code/results_pdsb/H1/runs.jsonl,dedicated search initial tuning,22,550,G1;G2;G22;G3;G4;G43;G5;G55;G81,856891
+code/results_pdsb/H2/runs.jsonl,dedicated search selected settings,22,52,G1;G2;G22;G3;G4;G43;G5;G55;G81,1872385
+code/results_pdsb/H3/runs.jsonl,dedicated long search,22,22,G1;G2;G22;G3;G4;G43;G5;G55;G81,169674

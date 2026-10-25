@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the paper and the certificate release."
+title: "PdSB: Potts discrete simulated bifurcation for Max-k-Cut"
+type: software
+license: MIT
+version: 1.0.0
+date-released: 2026-10-24
+authors:
+  - family-names: Zhuang
+    given-names: Jiapei
+    orcid: "https://orcid.org/0000-0002-9140-5139"
+    affiliation: "Quantum Science Center of Guangdong-Hong Kong-Macao Greater Bay Area"
+  - family-names: Chen
+    given-names: Yaocheng
+    orcid: "https://orcid.org/0000-0002-8967-4911"
+    affiliation: "Instituto de Astronomia, Geofísica e Ciências Atmosféricas, Universidade de São Paulo"
+keywords:
+  - Max-k-Cut
+  - Potts model
+  - simulated bifurcation
+  - Ising machine
+  - GPU computing
+preferred-citation:
+  type: article
+  title: "Beyond One-Hot Encoding: Native Potts Discrete Simulated Bifurcation Breaks G-set Max-k-Cut Records"
+  authors:
+    - family-names: Zhuang
+      given-names: Jiapei
+      orcid: "https://orcid.org/0000-0002-9140-5139"
+    - family-names: Chen
+      given-names: Yaocheng
+      orcid: "https://orcid.org/0000-0002-8967-4911"
+  year: 2026
+  notes: "Manuscript under review."
+references:
+  - type: dataset
+    title: "Max-k-Cut solution certificates on the G-set benchmark"
+    authors:
+      - family-names: Chen
+        given-names: Yaocheng
+    version: 2.0.0
+    year: 2026
+    doi: 10.5281/zenodo.23405852
